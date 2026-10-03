@@ -27,7 +27,7 @@ Jenkins · AWS EC2 · Bitnami · Git · Build Pipeline plugin
 
 | Build pipeline run | Job configuration |
 | --- | --- |
-| ![Build pipeline](screenshots/01-build-pipeline.png) | ![Job configuration](screenshots/02-job-config.png) |
+| ![Build pipeline](screenshots/01-job-build2.jpg) | ![Job configuration](screenshots/02-build-pipeline.jpg) |
 
 ![Jenkins dashboard](screenshots/03-dashboard.png)
 
@@ -38,7 +38,7 @@ Jenkins · AWS EC2 · Bitnami · Git · Build Pipeline plugin
 
 ## Presentation
 
-The slides covering Jenkins concepts, the DevOps lifecycle and our setup are in [`slides/`](slides/).
+The slides covering Jenkins concepts, the DevOps lifecycle and our setup are in [Slides.pdf](Slides.pdf)..
 
 ## What I learned
 
