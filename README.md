@@ -27,7 +27,7 @@ Jenkins · AWS EC2 · Bitnami · Git · Build Pipeline plugin
 
 | Build pipeline run | Job configuration |
 | --- | --- |
-| ![Build pipeline](screenshots/01-job-build2.jpg) | ![Job configuration](screenshots/02-build-pipeline.jpg) |
+| ![Build pipeline] (screenshots/02-build-pipeline.jpg) | ![Job configuration] (screenshots/01-job-build2.jpg) |
 
 ![Jenkins dashboard](screenshots/03-dashboard.png)
 
