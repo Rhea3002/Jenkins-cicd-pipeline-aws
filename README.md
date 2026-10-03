@@ -33,8 +33,8 @@ Jenkins · AWS EC2 · Bitnami · Git · Build Pipeline plugin
 
 ## Demo videos
 
-- [Jenkins jobs and builds demo](ADD-LINK-HERE)
-- [Build pipeline demo](ADD-LINK-HERE)
+- [Jenkins jobs and builds demo](https://drive.google.com/file/d/1EQ87RVT4vVjUISwxneMLaiE9kg67-or7/view?usp=sharing)
+- [Build pipeline demo](https://drive.google.com/file/d/1Plfx1IDvBBxdJGUv2S7YgyW50Cdo87x4/view?usp=sharing)
 
 ## Presentation
 
